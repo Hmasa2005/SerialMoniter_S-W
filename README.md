@@ -1,6 +1,6 @@
 # SerialMoniter_S-W
 ## 📌 Overview
-
+<img src="images/SerialMoniter_img.png" alt="Softwera Image" width="400"/>
 **Pseudo! TeraTerm** is a lightweight serial communication tool built with Python + Tkinter for **macOS**.  
 Since TeraTerm is not available on macOS, this tool acts as a simple, clean alternative.
 
